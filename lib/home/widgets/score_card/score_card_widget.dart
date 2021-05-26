@@ -1,7 +1,7 @@
 import 'package:DevQuiz/home/widgets/chart/chart_widget.dart';
 
 import 'package:flutter/material.dart';
-import '../../../core/core.dart';
+import '../../../shared/core.dart';
 
 class ScoreCardWidget extends StatelessWidget {
   @override

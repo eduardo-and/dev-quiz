@@ -1,4 +1,4 @@
-import '../core/core.dart';
+import '../shared/core.dart';
 import 'package:flutter/material.dart';
 
 class SplashPage extends StatelessWidget {
